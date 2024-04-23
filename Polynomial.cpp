@@ -69,14 +69,7 @@ Polynomial::Polynomial(string equation)
     int sign_pos = 0;
     int sign_len = 0;
 
-    // multiply p1,p2
-    // add p1,p2
-    // integrate p1 from 2 to 5
-    // integrate p1
-    // differentiate p1 at x0 or differentiate p1
-    // subtract p1,p2
-    // linearize p1 at x0
-
+    // new changes
     int i = 0;
 
 
